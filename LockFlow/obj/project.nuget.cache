@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iViJm3NNvs8HvZ4MFMA5TR2Ok5XMjndpzHTc5PIDW6PEtjWUhBd90IanT7PsTqdfntbevWJqb4dY9WWdso7SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krstic\\Desktop\\ZI\\LockFlow\\LockFlow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krstic\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\krstic\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\krstic\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\krstic\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.pdb
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.exe

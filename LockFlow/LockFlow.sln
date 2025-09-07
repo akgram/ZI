@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockFlow", "LockFlow.csproj", "{484159DC-5348-46FA-98F0-07B49ACDBD02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484159DC-5348-46FA-98F0-07B49ACDBD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484159DC-5348-46FA-98F0-07B49ACDBD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484159DC-5348-46FA-98F0-07B49ACDBD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484159DC-5348-46FA-98F0-07B49ACDBD02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE8D169-D489-407A-80CE-E6A4EA6E7ED1}
+	EndGlobalSection
+EndGlobal

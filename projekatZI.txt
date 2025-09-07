@@ -1,0 +1,24 @@
+
+PYHTON NE jer je spor za kodi. i dekodiranje
+
+pravimo app za kodiranje i dekodiranje i razmenu datoteka
+
+po 1 alg iz svake grupe (18717 mod 10 + 1)
+
+kljuc je proizvoljan
+
+bilo koji fajl se moze kodirati! txt mp4 jpg
+
+
+ako korisnik doda vise npr 10 fajla da se saceka da se svaki obradi
+
+filesystem watcher da se vodi racuna da se brise stara lista i kad se ukljuci watcher da se 
+prikaze samo trenutno stanje a ne da dodaje uvek isto
+
+pozeljno da se koriste niti kako bi se ubrzala aplikacija
+
+idealno par niti, da se izbegne usko grlo
+
+
+
+

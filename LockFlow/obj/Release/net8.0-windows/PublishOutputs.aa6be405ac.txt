@@ -1,0 +1,5 @@
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.exe
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.deps.json
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.runtimeconfig.json
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Release\net8.0-windows\win-x64\publish\LockFlow.pdb

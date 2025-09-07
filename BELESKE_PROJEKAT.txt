@@ -1,0 +1,11 @@
+
+RADI BIFIIID za svee!
+RADI RC6 i OFB za svee!
+
+-------------------------------------------------------------
+bug1: kad se kreira novi fajl npr. test.txt u Target folderu
+u X folder se kreira "New Text Document_encrypted.txt" umesto
+test_encrypted.txt.
+I nije neki bug buduci da se ovo koristi za stavljanje vec spremnih
+fajlova a ne da se kreiraju u tom trenutku jer nema sta da se enkriptuje.
+----------------------------------------------------------------------------

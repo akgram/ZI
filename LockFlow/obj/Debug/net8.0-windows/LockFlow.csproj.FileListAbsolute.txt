@@ -1,0 +1,35 @@
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Debug\net8.0-windows\LockFlow.exe
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Debug\net8.0-windows\LockFlow.deps.json
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Debug\net8.0-windows\LockFlow.runtimeconfig.json
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Debug\net8.0-windows\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow\bin\Debug\net8.0-windows\LockFlow.pdb
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.LockFlow.resources
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.csproj.GenerateResource.cache
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.AssemblyInfoInputs.cache
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.AssemblyInfo.cs
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.csproj.CoreCompileInputs.cache
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\refint\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.pdb
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.genruntimeconfig.cache
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\ref\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.Properties.Resources.resources
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\bin\Debug\net8.0-windows\LockFlow.exe
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\bin\Debug\net8.0-windows\LockFlow.deps.json
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\bin\Debug\net8.0-windows\LockFlow.runtimeconfig.json
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\bin\Debug\net8.0-windows\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\bin\Debug\net8.0-windows\LockFlow.pdb
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.LockFlow.resources
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.Properties.Resources.resources
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.csproj.GenerateResource.cache
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.AssemblyInfoInputs.cache
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.AssemblyInfo.cs
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.csproj.CoreCompileInputs.cache
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\refint\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.pdb
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\LockFlow.genruntimeconfig.cache
+C:\Users\krstic\Desktop\ZI\LockFlow - Copy\obj\Debug\net8.0-windows\ref\LockFlow.dll
+C:\Users\krstic\Desktop\ZI\LockFlow\obj\Debug\net8.0-windows\LockFlow.sourcelink.json
